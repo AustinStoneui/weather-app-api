@@ -6,11 +6,11 @@
 }
 body {
     font-family: 'montserrat', sans-serif;
-    background-image: url('brooklynj.jpeg');
-    background-size: cover;
+    background-color: black;
+    background-size: contain;
     background-position: top cover;
+    background-repeat: no-repeat;
     height: auto;
-
 }
 
 .app-wrap {
